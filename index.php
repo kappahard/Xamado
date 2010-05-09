@@ -6,16 +6,19 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />  
 
 <title>
-  Ben vindo ao Xamado
+  Bem vindo ao Xamado
   </title>
-
-
-
   </head>
 
   <body>
+<form>
+    <label for="login">Login</label>
+    <input type="text" name="login" id="login" />
+    <label for="senha">Senha </label>
+    <input type="password" name="senha" id="senha" />
+    <input type="submit" value="Enviar" />
 
-
+</form>
 
 
   </body>
