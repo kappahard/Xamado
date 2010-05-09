@@ -3,7 +3,9 @@
 
   <html>
   <head>
-  <title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />  
+
+<title>
   Ben vindo ao Xamado
   </title>
 
